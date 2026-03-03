@@ -2,7 +2,7 @@
 <plugins>
   <pyqgis_plugin
       name="layer2shp"
-      version="1.0.0"
+      version="3.10.3"
       plugin_id="1001"
       experimental="False"
       deprecated="False"
@@ -23,4 +23,5 @@
       description="Layer to Shapefile plugin　表示しているレイヤを一括でshpとして出力します。">
   </pyqgis_plugin>
 </plugins>
+
 
