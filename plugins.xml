@@ -4,13 +4,14 @@
     <description>Layer to Shapefile plugin</description>
     <version>1.0.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
-    <file_name>Layer2shp.zip</file_name>
+    <file_name>layer2shp.zip</file_name>
     <author>cue-bu</author>
     <download_url>
-      https://cue-bu.github.io/cue-bu/Layer2shp.zip
+      https://cue-bu.github.io/cue-bu/layer2shp.zip
     </download_url>
   </pyqgis_plugin>
 
 </plugins>
+
 
 
