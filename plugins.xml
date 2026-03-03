@@ -7,8 +7,9 @@
     <file_name>layer2shp.zip</file_name>
     <author>cue-bu</author>
     <download_url>
-      https://cue-bu.github.io/layer2shp/qgis_plugin.zip
+      https://cue-bu.github.io/cue-bu/qgis_plugin.zip
     </download_url>
   </pyqgis_plugin>
 
 </plugins>
+
