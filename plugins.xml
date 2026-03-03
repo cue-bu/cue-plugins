@@ -5,22 +5,23 @@
 
     <description><![CDATA[
 表示しているレイヤを一括でshpとして出力します。
-    ]]></description>
+]]></description>
 
     <about><![CDATA[
-レイヤパネルの全レイヤをShape形式でエクスポートします。
-プラグインアイコンをクリックすると、レイヤ名をファイル名としたshpファイルが保存されます。
-レイヤパネル内に複数同じ名前のレイヤが存在する場合は、レイヤパネル上で上から順に _数字 を末尾に付与します。
-既に同じファイル名が存在する場合も、末尾の数字を連番にしてファイル名が作成されます。
-ラスタレイヤや未形式のレイヤについては保存しません。
-    ]]></about>
+<p>レイヤパネルの全レイヤをShape形式でエクスポートします。</p>
+<ul>
+  <li>プラグインアイコンをクリックし、保存先フォルダを選択すると、レイヤ名をファイル名としたshpファイルを保存します。</li>
+  <li>同名レイヤが複数ある場合は、レイヤパネル上で上から順に、末尾へ「_1」「_2」…を付与します。</li>
+  <li>保存先に同名ファイルが存在する場合も、末尾番号を連番で付与します。</li>
+  <li>ラスタレイヤや表形式のレイヤは対象外です。</li>
+</ul>
+]]></about>
 
     <author_name>S.hiramatsu</author_name>
     <email>cue.bu2025@gmail.com</email>
 
     <homepage>https://cue.gozaru.jp/</homepage>
     <repository>https://cue-bu.github.io/cue-bu/plugins.xml</repository>
-    <tracker></tracker>
 
     <tags>python,layer,shp,output</tags>
 
@@ -41,7 +42,7 @@
 
     <changelog><![CDATA[
 初回公開版
-    ]]></changelog>
+]]></changelog>
 
   </pyqgis_plugin>
 
