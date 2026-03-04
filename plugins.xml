@@ -25,7 +25,7 @@
 
     <tags>python,layer,shp,output</tags>
 
-    <icon>https://cue-bu.github.io/cue-bu/icon/lyr2shp.png</icon>
+    <icon>https://cue-bu.github.io/cue-plugins/icon/lyr2shp.png</icon>
 
     <version>3.10.3</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
@@ -47,4 +47,5 @@
   </pyqgis_plugin>
 
 </plugins>
+
 
